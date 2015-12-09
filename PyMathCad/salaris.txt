@@ -1,0 +1,62 @@
+; oi_salaris = 3500.
+; huisman_salaris = 3080.
+; vakantie = 1.08
+; vakantie_dagen = 26.
+; maanduren = 173.3
+; ziekte_dagen = 6.
+; ziekte_vakantie_correctie = 1 / (1- (ziekte_dagen + vakantie_dagen) * 8. / maanduren / 12.)
+~ ziekte_vakantie_correctie = 1.14038166265
+; dosign_bonus_max = 1.08
+; target_salaris = 3900
+~ (target_salaris - oi_salaris) * (vakantie + dosign_bonus_max - 1) * ziekte_vakantie_correctie = 529.137091467
+~ target_salaris * (vakantie + dosign_bonus_max - 1) = 4524.0
+~ oi_salaris * (vakantie + dosign_bonus_max - 1) + 529.1 / ziekte_vakantie_correctie = 4523.96747451
+
+; huisman_verhoging = 1.1
+~ 1.11 * 400 = 444.0
+~ huisman_salaris * huisman_verhoging = 3388.0
+; huisman_bonus_max = 1+1.5/12.
+~ huisman_bonus_max = 1.125
+; huisman_bonus_ave = 1+1/12.
+~ huisman_bonus_ave = 1.08333333333
+; dosign_bonus_max = 1.08
+; dosign_bonus_ave = 1.04
+~ huisman_salaris * huisman_bonus_max = 3465.0
+~ huisman_salaris * huisman_bonus_ave = 3336.66666667
+~ huisman_salaris * huisman_bonus_max / dosign_bonus_max = 3208.33333333
+~ oi_salaris / (huisman_salaris * huisman_bonus_max / dosign_bonus_max ) = 1.09090909091
+~ 3900 * huisman_bonus_max / dosign_bonus_max = 4062.5
+~ huisman_salaris * huisman_bonus_ave / dosign_bonus_ave = 3208.33333333
+~ huisman_salaris * huisman_bonus_max / dosign_bonus_max * 1.2 = 3850.0
+~ huisman_salaris * huisman_bonus_ave / dosign_bonus_ave * 1.2 = 3850.0
+~ 3900/(huisman_salaris * huisman_bonus_ave / dosign_bonus_ave) = 1.21558441558
+~ huisman_salaris * huisman_bonus_max / dosign_bonus_max * 1.3 = 4170.83333333
+~ huisman_salaris * huisman_bonus_ave / dosign_bonus_ave * 1.3 = 4170.83333333
+~ huisman_bonus_max, huisman_bonus_ave = (1.125, 1.0833333333333333)
+~ huisman_bonus_max / dosign_bonus_max = 1.04166666667
+~ huisman_bonus_ave / dosign_bonus_ave = 1.04166666667
+~3900 * dosign_bonus_max / huisman_bonus_max / 3080 = 1.21558441558
+~3900. / 3080. = 1.26623376623
+; target_salaris = 3900 * huisman_bonus_max / dosign_bonus_max
+~ target_salaris = 4062.5
+~ (target_salaris - oi_salaris) * (vakantie + dosign_bonus_max -1) * ziekte_vakantie_correctie = 744.099034876
+
+'''ik ben bang dat het een lokkertje is om mij bij huisman weg te halen. 
+Wanneer ik dan bij client in dienst ga, krijg ik gewoon dat lokkertje 
+maar dan geheel in bruto ipv als detacheerings toeslag. Ik heb dan geen
+onderhandelingspositie meer.'''
+; jaar1 = huisman_salaris * huisman_bonus_max / dosign_bonus_max * 1.07 
+; jaar2a = huisman_salaris * huisman_bonus_max / dosign_bonus_max * 1.07 * 1.07 
+; jaar2b = huisman_salaris * huisman_bonus_max / dosign_bonus_max * 1.07 * 1.05 
+; jaar2c = huisman_salaris * huisman_bonus_max / dosign_bonus_max * 1.05 * 1.05 
+~ 3900 / jaar1 = 1.13606020148
+~ 3900 - jaar1 = 467.083333333
+~ 3900 / jaar2a = 1.06173850606
+~ 3900 - jaar2a = 226.779166667
+~ 3900 / jaar2b = 1.08196209665
+~ 3900 - jaar2b = 295.4375
+~ 3900 / jaar2c = 1.10257089849
+~ 3900 - jaar2c = 362.8125
+~ jaar2a*1.1 = 4040.54291667
+~ jaar2a*1.2 = 4407.865
+~ jaar2a+500 = 4173.22083333

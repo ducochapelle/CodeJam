@@ -1,0 +1,46 @@
+'''Voordat we met eurorigging en offshore independent aan de slag gingen, wist
+ik nog niet echt zeker of ik wel wilde switchen. Maar Sebastiaan had gelijk; 
+praten werkt verhelderend. Ik weet nu zeker dat ik wil switchen.
+
+Eurorigging was nog ietwat veilig; Offshore wordt een avontuur; qui vive.
+
+Een nieuwe baan is echter wel iets delicaat. Ik wil er met een goed gevoel in 
+gaan. 
+
+XOXOXOOXOX hier moet nog iets --> MEER SALARIS'''
+
+'''tov mijn huidig salaris met verwachte verhoging (de afgelopen twee jaar was
+de verhoging 1.10 en 1.11 respectievelijk.'''
+; s_2011, s_2012, s_2013 = 2500. ,2767. ,3080.
+~ s_2012/s_2011, s_2013/s_2012 = (1.1068, 1.1131189013371883)
+; huisman_salaris = s_2013
+; huisman_verhoging = 1.10
+~ huisman_salaris * huisman_verhoging = 3388.0
+; dosign_salaris = 3500.
+~ dosign_salaris / (huisman_salaris * huisman_verhoging) = 1.03305785124
+'''Dit komt dan neer op een verhoging van 3.3 procent. Dat is niet genoeg. Ik
+dacht meer aan 18 procent.'''
+~ 4000 / huisman_salaris / huisman_verhoging = 1.18063754427
+'''En hoeveel is dat dan direct?'''
+~ 4000. / huisman_salaris = 1.2987012987
+~ dosign_salaris / huisman_salaris = 1.13636363636
+'''Oef.. dertig procent, dat is wel veel. Maar als ik twee jaar lang hetzelfde
+salaris houdt, wat niet gek is omdat ik dan van detacheer naar vast ga, komt 
+dat uit op: ''' 
+~ (4000 / huisman_salaris)**(.5) = 1.1396057646
+~ (4000 / huisman_salaris / huisman_verhoging)**(.5) = 1.08657146303
+'''14 procent per jaar direct, of 8 a 9 procent per jaar indirect.'''
+
+'''Redenen voor salaris verhoging:
+* ervaring die ik mee breng zeer gespitst op de job, offshore, lassen..
+* daar ter plekke weinig van die ervaring, weinig ondersteuning op dat vlak
+* niet intrinsiek iets maatschappelijks relevant
+* De markt; mijn broer heeft WTB en is net ergens aan de slag, en gezien zijn 
+ervaring/salaris
+* Huisman is een betere referentie dan offshore independent
+* vast contract -> tijdelijk contract
+* Bij huisman krijgt een detacheerder geen verhoging als hij in vaste dienst
+komt
+'''
+
+

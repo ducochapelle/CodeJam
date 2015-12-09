@@ -1,0 +1,36 @@
+Bag of Sand
+Box of Antibiotics
+Box of Nails
+Box of Screws
+Box of Sutures
+Boxing Gloves
+Broom
+Bucket
+Can of Paint
+Chipboard
+Coil of Barbed Wire
+Coil of Rope
+Corrugated Sheet
+Defibrillator
+Duct Tape
+Empty Bottle
+Fuel Can [1 Unit]
+Hammer
+Hand Saw
+Mannequin
+Mattress
+Metal Desk
+Scalpel
+Screwdriver
+Sheet Metal
+Shelving
+Step Ladder
+Surgical Kit
+Surgical Scissors
+Tall Lamp
+Timber Joist
+Tool Kit
+Trauma Pad
+Treated 2x4
+Wooden Pallet
+Wrench

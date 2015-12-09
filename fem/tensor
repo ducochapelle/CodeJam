@@ -1,0 +1,16 @@
+class Tensor():
+    def __init__(self,t):
+        self.Tensor = t
+    def Rotate(self,u):
+        self.Rotated = u #self.mmult(self.mmult(u,self.Tensor),zip(*u))   
+    def mmult(self,m1,m2):
+        M = ((0,0,0),(0,0,0),(0,0,0))
+        for i in range(len(m1)):
+            for j in range(len(m2)):
+                for k in range(len(m1)):
+                    M[i][j] += m1[k][j]*m2[k][j]
+        return M
+                 
+a = ((0,0,0),(0,30,2),(0,2,10))
+t = Tensor(a)
+t.Rotate(((1,0,0),(0,0,1),(0,1,0)))

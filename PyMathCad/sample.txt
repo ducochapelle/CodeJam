@@ -1,0 +1,8 @@
+text
+; a = 4.
+nog meer text
+; a = 10 * a
+; b = 2.3
+; c = a / b
+~ c = 17.3913043478
+

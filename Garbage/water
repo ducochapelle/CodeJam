@@ -1,0 +1,13 @@
+array = [2,5,1,2,3,4,7,7,6]
+old_water = 0
+for i in range(len(array)):
+	for j in range(i,len(array)):
+		a = array[i]
+		water = 0
+		print "i:{0}, j:{1}, a:{2}".format(i,j,a)
+		for k in array[i+1:j]:
+			if k < a:
+				water += a - k
+		if not array[j] < a:
+			water = max(old_water, water)
+			old_water = water

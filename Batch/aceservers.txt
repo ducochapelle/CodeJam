@@ -1,0 +1,183 @@
+ACE OF SPADES
+
+Forums 
+DOWNLOAD BETA 0.75!
+Then click a server to join...
+
+Slots	Ping	Country	Mode	Map	Name
+32/32	736		tdm	Beaulieu Abbey	Green ones vs Brown pants
+32/32	824		ctf	Bridge Wars	D42C-Hosting.eu Test Server
+32/32	811		ctf	20thCenturyTown	GieMap - Deutscher Server
+32/32	671		ctf	MapChateau	Call of Liberty Ctf 24/7
+30/32	737		ctf	pyspades	MKAB CTF 1
+32/32	821		tc	Cat s Eye	 Haus der Freuden
+31/32	672		tc	bowl	Hampshire Heavies Pyspades
+31/32	745		ctf	Harbor 2	www.humancraft.de
+32/32	804		tc	Pinpoint	MKAB TC 3
+32/32	805		tdm	Pinpoint	MKAB TDM 3
+32/32	812		ctf	Bridge Wars	MKAB CTF 2
+12/12	813		ctf	chute	Build2Fight.dyndns.org
+31/32	736		r1ctf	hallway	aloha.pk r1ctf 24/7 hallway
+30/32	796		tdm	Bridge Wars	MKAB TDM 2
+9/32	851		ctf	cougar	Destiny-Server
+28/32	738		tdm	pyspades	MKAB TDM 1
+32/32	738		tdm	faceBattle	KandruDE Arena
+32/32	732		infiltr	Castle Assault	aloha.pk infiltration
+20/32	737		ctf	Hallway	OKTOBERFEST
+4/4	776		ctf	Normandie	SuperServer - German
+32/32	693		tdm	Goon Assault	Minit US - Assault
+31/32	734		irpg	shaft2	aloha.pk intel rpg
+30/32	725		arena	avstorage	aloha.pk last team standing
+6/6	736		ctf	pyspades	RedBullAOS
+0/32	738		babel	crossfire2	aloha.pk 0.76 test
+32/32	699		ctf	Hallway	North European Coalition
+31/32	729		zombies	solo	aloha.pk humans vs. zombies
+20/20	781		ctf	pyspades	24/7 Polski serwer AOS
+32/32	716		ctf	Pinpoint	noame199
+2/2	730		ctf	Anticbridge	Slurry In A Hurry
+28/32	734		tdm	pyspades	BlueFangSolutions.com East-3
+2/32	781		ctf	Standoff	Shams 076 Pyspades
+32/32	790		ctf	Oasis	Shams Little Pony
+32/32	725		ctf	Normandie	SoFurry.com - Spaded Furs
+30/32	728		ctf	Harbor 2	SoFurry.com 2 - Zombies
+20/32	734		tdm	killaman	Return of SuperCool Build PBT
+26/32	806		tc	pyspades	MKAB TC 1
+32/32	646		1ctf	pinpoint	aloha.pk 1ctf 24/7 pinpoint
+32/32	798		babel	crossfire2	Minit EU - Babel
+31/32	688		ctf	Mesa	Circle of Enmity No Grief/Hacks
+4/4	671		ctf	Hallway	ACeOfSpAdEs 3 Admin benzak
+30/32	688		ctf	Pinpoint	MKAB CTF 3
+4/4	677		ctf	Island	Server
+31/32	678		tow	Mesa	TwoMoreTimes.com ToW 32slot
+32/32	731		arena	EnanoArena	Call of Liberty Arena 24/7
+32/32	701		ctf	Bridge Wars	Public-Craft Ace of Spades
+32/32	671		ctf	Anticbridge	JestServers.com France
+32/32	733		tc	Hallway	Excalibuur - Karadoc FR
+12/12	734		tdm	Pinpoint	jiffypop23 s server
+32/32	728		ctf	Pinpoint2	GameHosting.co.uk
+25/32	736		ctf	classicgen	aloha.pk ctf 24/7 classicgen
+4/4	676		ctf	Bridge Wars	Ape-Craft
+28/32	718		ctf	The Other Side	Sandcrawler.net
+32/32	659		ctf	league	aloha.pk capture the flag
+31/32	680		ffa	facebattle	aloha.pk free for all
+30/32	733		tdm	colosseum	aloha.pk tdm island maps
+32/32	727		ctf	Hallway	-24/7 HALLWAY-
+32/32	839		ctf	random 1353837213	R Item CZ - www.e-item.cz
+25/32	720		tow	waterfrontv2	aloha.pk tug of war
+31/32	738		ctf	Bridge Wars 1.4	Serealia - Unbreakable Bridge
+5/32	672		tdm	Animus	Animus Test Server 076
+31/32	731		tow	Normandie 1.2	Serealia - Unbreakable Normandi
+29/32	676		tc	urban	Animus Server 2 - TC
+4/4	687		ctf	pyspades	chlisistdoof
+19/20	672		ctf	Hallway	40k server
+32/32	756		ctf	Bridge Wars	Mineguild Pyspades 24/7
+27/32	741		ctf	pyspades	IronLegion.de
+10/10	671		ctf	Normandie	gur
+26/32	747		ctf	Harbor 2	IronLegion.de Server 03
+0/32	734		tc	Assault	BlueFangSolutions.com 1
+30/32	680		tdm	Assault2	SPQR Official Server
+5/32	762		tow	classicgen	junks UK 1
+7/32	699		tdm	Pinpoint2	- LeafCutters EU 2 -
+10/32	675		tdm	Pinpoint2	- LeafCutters EU 1 -
+4/4	659		ctf	Anticbridge	Das Schlachten Zeitalter
+29/32	699		ctf	Space Station	Ki11aWi11 - Arena
+4/4	724		ctf	chute	Boehse Onkelz Server
+28/32	685		ctf	Hallway	Ki11aWi11 - Fun Maps
+21/24	652		ctf	PUG	NO GIRLS ALLOWED
+28/32	675		arena	planeassault	lagit.in Lartza s Men Standing
+3/4	724		ctf	pyspades	nitrado.net gameserver
+5/32	914		ctf	gen	Guun server 24
+30/32	645		ctf	Pinpoint	RoT III - Swag with a Vengeance
+5/32	849		tdm	Anticbridge	Nround Server Asia
+4/4	737		ctf	Anticbridge	nitrado.net gameserver
+10/32	643		ffa	Normandie	Nach0z 0.75 FreeForAll
+25/32	650		ctf	trenches	Ki11aWi11 - CTF
+14/32	748		ctf	Pinpoint2	Bluefangsolutions.com Central
+3/32	734		tc	Hallway	Bluefangsolutions.com Central
+2/32	1132		ctf	Heaven Hell	ploopos airstrike max server
+6/32	701		tdm	Anticbridge	Bluefangsolutions.com Central
+3/32	738		ctf	random	Bluefangsolutions.com Central4
+10/32	692		ctf	Pinpoint	RoT I - Swag Hard
+32/32	642		ctf	random	RoT II - Swag Harder
+0/32	732		ctf	Penthouse	Homosexual Support Group
+5/32	750		tc	Port Factory	Homosexual Support Group
+25/32	733		tdm	Battle Of BigBen	Homosexual Support Group
+0/32	712		ctf	de dust2	Homosexual Support Group
+0/32	712		tdm	Blue Resort	Homosexual Support Group
+7/32	683		tdm	Bridge Wars	- LeafCutters EU 3 -
+5/14	726		ctf	pyspades	McFerundes German-Fun-Server
+27/32	820		ctf	Bridge Wars	IronLegion.de Bridgewars only
+10/32	701		tdm	random 1717048750	The Shark Tank - Custom Maps
+4/32	712		ctf	Harbor 2	ModernBuild.net - AoS Server
+6/10	779		ctf	Realistic Bridge	EliteShooter
+5/32	873		ctf	awp india	STOOGE GAMERS - AUSTRALIA
+12/32	676		tdm	Animus	Animus Server 1 - tdm
+17/24	979		ctf	De Dust2	STOOGE GAMERS - 247 DeDust
+24/32	677		tc	classicgen 11574956	Gen Wars
+8/32	693		tc	Anticbridge	Masterzock German Clanserver
+1/3	673		ctf	Anticbridge	Only 1vs1
+7/16	676		tdm	Cemetery	BuildingDiamonds
+31/32	646		babel	holes	aloha.pk tower of babel
+27/32	665		arena	cs italy	aloha.pk counter-strike maps
+11/20	881		ctf	WhiteBeach	mrPinks Headshot Parade
+25/32	737		ctf	Anticbridge	- B2K - Born 2 Kill Clan Server
+6/32	879		tow	random	Chile Server - aoschile.tk
+15/18	672		ctf	Hallway	Troll Guys - BR Clan
+22/32	733		tc	Bridge Wars	Clanstore.de
+9/10	785		ctf	Bridge It Is	Namen sind nicht von Bedeutung
+6/10	675		ctf	pyspades	ChrisWood 4
+1/4	672		ctf	pyspades	nitrado.net gameserver
+23/32	925		ctf	Hallway	Konkey Dong Server
+9/32	783		ctf	Anticbridge	MasterGamer 24Stunden 2 TeamsGe
+29/32	690		tdm	Nuketown	FPS map jp server
+4/20	815		ctf	sasuke kichiku	SASUKE JUMP server cannot kill
+5/10	817		tdm	Bridge Wars	NoiharaLP.tk Gameserver
+5/16	672		tc	2012	Territorial control German Only
+2/32	811		ctf	Dust2	Real War / Realna Valka
+3/32	740		ctf	Colloseum	Minit US - CTF
+3/32	682		ctf	DeckII	Minit EU - CTF
+1/4	676		tc	Bridge Wars	MgamerLP
+4/32	822		ctf	Urban Tank Fight	50maps 1kill airstrike 1ctf ser
+0/4	676		ctf	pyspades	MasterGamer2 24Stunden 2 TeamsG
+1/32	725		ctf	pyspades	Click me 1
+10/32	722		ctf	Pinpoint	IridiumGaming.tk CTF - Fast Res
+2/4	663		ctf	Anticbridge	ChrisWood 2
+2/32	729		ctf	suspendu	Animus Server 3 - ctf
+11/32	740		ctf	Bridge Wars	Labyrinth Gaming
+3/6	677		ctf	Bridge Wars	BoarischxD
+2/2	678		tdm	Anticbridge	DenisSinan
+2/2	776		tdm	Normandie	123nitrado.net gameserver LULU
+18/20	842		ctf	Hallway	marvgamers ballerbude
+15/32	702		infiltr	Swamp	Minit EU - Infiltration
+0/32	675		ctf	Isle of War	Minit EU - Whitelist
+4/4	664		ctf	Bridge Wars	Remember
+10/32	811		ctf	Pinpoint	Excalibuur - Perceval FR
+5/32	690		ctf	Hallway	CentziliusLPs Server - GLP Mumb
+18/32	811		ctf	Bridge Wars	B-Paradise.eu CZ/SK
+0/4	674		ctf	pyspades	Cooler Server
+11/32	672		tdm	Standoff	- www.komrades.org Server -
+2/32	671		tdm	Prison	Myles Fun AOS Server
+12/32	702		tdm	Pinpoint	Build and DESTROY
+5/6	672		ctf	Bridge Wars	Timeline
+22/32	729		tc	Cannibal Islands	fCraft.net AoS /ENGLISH/
+24/32	672		ctf	Pinpoint	JestServers.com Netherlands
+3/32	859		ctf	Hallway	Stefanos Free For All Pyspades
+9/32	659		ctf	Paradise	youtube.com/eelikay 24/7 CTF
+9/32	795		ctf	Standoff	No mans land
+7/14	821		ctf	Pinpoint	Stormwind Clan Server
+30/32	756		ctf	Anticbridge	JestServers.com Germany
+29/32	680		ctf	Anticbridge	JestServers.com New York
+21/32	680		ctf	Anticbridge	JestServers.com Los Angeles
+16/32	639		ctf	pyspades	JestServers.com Dallas
+25/32	702		ctf	Anticbridge	JestServers.com San Jose
+28/32	684		ctf	Pinpoint	pyspades server
+2/8	836		ctf	Life	 Polski
+24/24	827		tdm	Anticbridge	BS-Game.ath.cx
+3/4	682		ctf	Bridge Wars	Beast-Cutter
+6/6	735		ctf	Bridge Wars	KirbyDirby12 s AoS
+31/32	712		ctf	Normandie	Chris s Server
+26/32	687		ctf	pyspades	Wood Punchers 24/7 No lag CTF
+2/2	844		ctf	Bridge Wars	Hello
+32/32	737		ctf	random 1885084605	Minespace
+10/10	946		ctf	random 1251933874	Ggthbs server
+2/32	804		tc	random	MKAB TC 2
